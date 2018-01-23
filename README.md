@@ -1,5 +1,3 @@
 # Computational-Mathematics
-The two programs were written to solve Initial Value Problems and both employ the Runge-Kutta 4th order method so I have defined the RK4 function to be implemented in both programs.
-
-
-See description document for relevant equations. 
+ 
+A selection of programs that employ basic techniques of computational mathematics that include; matrix computations, data fitting techniques, image and signal processing, optimization, quadrature, initial value problems, computational efficiency, and visualization. 
