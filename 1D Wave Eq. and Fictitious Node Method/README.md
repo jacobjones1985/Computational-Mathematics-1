@@ -17,3 +17,4 @@ ut(0, x) = g(x).
 
 Where d and c are constants. 
 
+The program then produces a "movie" and a contour plot of the dampened wave.
